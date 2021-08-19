@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "ad0cdb30b7ea5f83009a3e0fafd5d195"
+build_time: [1629362094, 330165000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/Memo/Memo/MemoViewController.swift": [1629362094, 202460960]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Memo/Memo/ViewController.swift": [1629358909, 210669954]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Memo/Memo/AppDelegate.swift": [1629358909, 205058872]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Memo/Memo/SceneDelegate.swift": [1629358909, 208566230]

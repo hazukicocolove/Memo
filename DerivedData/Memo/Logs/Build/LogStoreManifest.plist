@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>360B4E65-CA50-4B49-AEF6-A962FFFB88DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>360B4E65-CA50-4B49-AEF6-A962FFFB88DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651055547.07345295</real>
+			<key>timeStoppedRecording</key>
+			<real>651055550.51843297</real>
+			<key>title</key>
+			<string>Build Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>360B4E65-CA50-4B49-AEF6-A962FFFB88DB</string>
+		</dict>
+		<key>3F04C8DF-EA35-439D-9F66-A1A01A58960A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F04C8DF-EA35-439D-9F66-A1A01A58960A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651055128.78084302</real>
+			<key>timeStoppedRecording</key>
+			<real>651055133.32587194</real>
+			<key>title</key>
+			<string>Build Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>3F04C8DF-EA35-439D-9F66-A1A01A58960A</string>
+		</dict>
+		<key>B2FC2FAF-821E-4C4A-8E61-A19057E8D49E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2FC2FAF-821E-4C4A-8E61-A19057E8D49E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651054894.214311</real>
+			<key>timeStoppedRecording</key>
+			<real>651054902.98323405</real>
+			<key>title</key>
+			<string>Build Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>B2FC2FAF-821E-4C4A-8E61-A19057E8D49E</string>
+		</dict>
+		<key>FC9B7283-6A9E-40FD-97AE-95086FD29B93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC9B7283-6A9E-40FD-97AE-95086FD29B93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651055752.84330499</real>
+			<key>timeStoppedRecording</key>
+			<real>651055755.59207594</real>
+			<key>title</key>
+			<string>Build Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>FC9B7283-6A9E-40FD-97AE-95086FD29B93</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

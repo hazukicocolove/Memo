@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>83A9127C-1FBA-4D05-89AA-61AEE7720BD4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>83A9127C-1FBA-4D05-89AA-61AEE7720BD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651055550.52141297</real>
+			<key>timeStoppedRecording</key>
+			<real>651055752.96615696</real>
+			<key>title</key>
+			<string>Run Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>83A9127C-1FBA-4D05-89AA-61AEE7720BD4</string>
+		</dict>
+		<key>8F289ABE-4961-46C6-BF13-835E961390C3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8F289ABE-4961-46C6-BF13-835E961390C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651054902.99382401</real>
+			<key>timeStoppedRecording</key>
+			<real>651055128.875862</real>
+			<key>title</key>
+			<string>Run Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>8F289ABE-4961-46C6-BF13-835E961390C3</string>
+		</dict>
+		<key>B8678D52-3620-4108-8FA0-03F6711F079A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B8678D52-3620-4108-8FA0-03F6711F079A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Memo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Memo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Memo</string>
+			<key>timeStartedRecording</key>
+			<real>651055133.32899797</real>
+			<key>timeStoppedRecording</key>
+			<real>651055547.19280601</real>
+			<key>title</key>
+			<string>Run Memo</string>
+			<key>uniqueIdentifier</key>
+			<string>B8678D52-3620-4108-8FA0-03F6711F079A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
